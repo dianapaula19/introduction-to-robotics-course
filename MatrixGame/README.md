@@ -1,6 +1,6 @@
 # AkiraBreakout
 
-![alt text](https://github.com/dianapaula19/IntroductionToRobotics/blob/master/MatrixGame/kanedaImage.jpg)
+![Kaneda](kanedaImage.jpg)
 ### "31 YEARS AFTER WORLD WAR III. AD 2019 NEO TOKYO"
 
 An explosion caused a bunch of rocks to block the exit of a Neo Tokyo tunnel. Clear the path for Kaneda and his gang to pass.  
